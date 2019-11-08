@@ -81,5 +81,3 @@ workflows:
             branches:
               only:
                 - test_branch_one
-              ignore:
-                - master
